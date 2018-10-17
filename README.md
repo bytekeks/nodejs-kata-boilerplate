@@ -1,0 +1,1 @@
+# NodeJS Boilerplate for code katas
